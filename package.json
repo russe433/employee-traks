@@ -1,0 +1,23 @@
+{
+  "name": "employee-traks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/russe433/employee-traks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/russe433/employee-traks/issues"
+  },
+  "homepage": "https://github.com/russe433/employee-traks#readme",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
